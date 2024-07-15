@@ -14,6 +14,7 @@ This is a optional project for tools in data science course. It is built entirel
   What is the correct total of points?
   ```
 + The user’s AIPROXY_TOKEN
-And returns the answer (in range 0-7) to the question.
+
+and returns the answer (in range 0-7) to the question.
 
 Enter ```https://shrasinh.github.io/OpenAI-Model-Analyzer/analyzer.html``` in the browser to use it.
