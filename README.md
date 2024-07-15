@@ -1,5 +1,5 @@
 # OpenAI-Model-Analyzer
-This is a optional project for tools in data science course. It is built entirely by giving prompts to [claude.ai](https://claude.ai/).
+This is an optional project for tools in data science course. It is built entirely by giving prompts to [claude.ai](https://claude.ai/).
 <br><br>It takes 2 inputs -
 + The full text of the question of the form
   ```
